@@ -1,7 +1,7 @@
 # Command-file
 自用命令文件:
 
-[GitHub 文件加速](https://shrill-pond-3e81.hunsh.workers.dev/)
+[GitHub 下载加速](https://shrill-pond-3e81.hunsh.workers.dev/)
 
 PC互通IOS版屠夫命令文件：[点击下载](https://github.com/Kirito2121/Command-file/raw/main/IOS%E5%B1%A0%E5%A4%AB.fatiao)
 
