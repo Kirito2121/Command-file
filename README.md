@@ -1,7 +1,7 @@
 # Command-file
 自用命令文件:
 
-[複製下方鏈接，填入下載加速](https://shrill-pond-3e81.hunsh.workers.dev/)
+[複製下方鏈接，點我加速下載](https://shrill-pond-3e81.hunsh.workers.dev/)
 
 找圖素材包：[右鍵複製鏈接](https://github.com/Kirito2121/Command-file/blob/main/%E6%89%BE%E5%9B%BE%E7%B4%A0%E6%9D%90%E5%8C%85.zip)
 
