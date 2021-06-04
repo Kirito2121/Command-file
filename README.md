@@ -5,9 +5,4 @@
 
 PC互通IOS版屠夫命令文件：[右键复制鏈接](https://github.com/Kirito2121/Command-file/blob/main/IOS%E5%B1%A0%E5%A4%AB.fatiao)
 
-
-加速下載使用教程：
-![image](https://github.com/Kirito2121/Process-file/blob/main/photo/1.png)
-![image](https://github.com/Kirito2121/Process-file/blob/main/photo/2.png)
-![image](https://github.com/Kirito2121/Process-file/blob/main/photo/3.png)
-![image](https://github.com/Kirito2121/Process-file/blob/main/photo/4.png)
+本地址已停更，请前往创意工坊下载最新文件：[点击前往](https://steamcommunity.com/sharedfiles/filedetails/?id=2424814480)
